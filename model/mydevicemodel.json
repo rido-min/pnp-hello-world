@@ -2,7 +2,7 @@
   "@context": "dtmi:dtdl:context;2",
   "@id": "dtmi:rido:mydevicemodel;1",
   "@type": "Interface",
-  "displayName": "mydevicemodel",
+  "displayName": "My Device Model",
   "contents": [
     {
       "@type": "Telemetry",
